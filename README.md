@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Salvatore, an engineer with the passion for sports
 - 👀 I’m interested in Sport Data
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Analyst
 - 📫 How to reach me: salvatore.nizza94@gmail.com
 
 <!---
