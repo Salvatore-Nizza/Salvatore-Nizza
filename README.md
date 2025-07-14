@@ -3,7 +3,7 @@
 🚀 Engineer & Data Analyst | Passion for Sports & Data
 
 - 🏅 Sports Data Enthusiast – Exploring analytics in sports performance, statistics & trends
-- 🎓 Student and 📊 Aspiring Data Analyst – Mastering Python, SQL, Tableau & Machine Learning
+- 🎓 Student and 📊 Aspiring Sport Data Analyst – Mastering Python, SQL, Tableau & Machine Learning
                                            – Passionate about extracting insights & storytelling with data
 - ⚙️ Engineer at Heart – Problem-solving mindset with a data-driven approach
 
