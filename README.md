@@ -7,7 +7,7 @@
                                            – Passionate about extracting insights & storytelling with data
 - ⚙️ Engineer at Heart – Problem-solving mindset with a data-driven approach
 
-📬 Contact me: salvatore.nizza94@gmail.com
+📬 Contact me: salvatorenizza.analyst@gmail.com
 
 <!---
 Salvatore-Nizza/Salvatore-Nizza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
