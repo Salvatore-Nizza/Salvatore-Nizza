@@ -7,7 +7,7 @@ Engineer & Data Analyst | Passion for Sports & Data
                                            – Passionate about extracting insights & storytelling with data
 - ⚙️ Engineer at Heart – Problem-solving mindset with a data-driven approach
 
-📬 Contact me: salvatorenizza.anayst@gmail.com
+📬 Contact me: salvatore.nizza94@gmail.com
 
 🚀 https://account.start2impact.it/profile/salvatote-nizza
 
