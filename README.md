@@ -11,13 +11,15 @@ My goal is to use data to optimize processes, improve efficiency, and support st
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📬 Contact me:
+**Connect With Me**
 
-📧 salvatore.nizza94@gmail.com
+I'm always open to new connections and opportunities!
 
-🔗 [LinkedIn](https://www.linkedin.com/in/salvatore-nizza-16a283121)
+📧 **Email:** salvatore.nizza94@gmail.com
 
-🚀 [S2I](https://talent.start2impact.it/profile/salvatote-nizza)
+🔗 **LinkedIn:** https://www.linkedin.com/in/salvatore-nizza-16a283121/
+
+🚀 **Portfolio:** [S2I](https://account.start2impact.it/profile/salvatote-nizza) - [Tableau](https://public.tableau.com/app/profile/salvatore5326/vizzes)
 
 <!---
 Salvatore-Nizza/Salvatore-Nizza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
